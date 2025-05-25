@@ -6,7 +6,6 @@ The cost of labor is very important and should be calculated even if you conside
 
 One might think that with a puzzle made from hardboard (which is cheap) and laser cutting at a resonable per-minute price, $29 should allow for a healthy profit even if you throw in free shipping. But not so! As you can see, as things stand the profit margin is lower than 50% for online sales (but much better for in-person sales.) How does this happen?
 
-![COGS for Makers](https://github.com/DPHAD/COGS-for-Makers/blob/master/Simple%20COGS%20for%20Makers%20Screenshot.png)
 
 Thanks to the spreadsheet, one can see that the lion's share of the costs are in processing the raw materials, and in shipping costs.
 Right away this tells you that optimizing the cost of laser cutting or optimizing shipping cost would be the prime areas to address. Including free shipping in the price is expensive! One could also simply raise the price...
@@ -17,6 +16,5 @@ The formulas handle the different cells in specific ways, so be careful when mod
 
 The organization and layout is intended to make the process of understanding where costs and time are spent on a product more clear.
 
-Ponoko has a good blog post on How to Create a Product that Sells with some additional insights in this area, if you are interested. https://www.ponoko.com/blog/business-tips/create-a-product-to-sell/
 
-If you want to see this spreadsheet on Google Docs instead, go here: https://docs.google.com/spreadsheets/d/1zH0q1V-A4Oh20up2nfQ9pUJ5eW0RkxC1VgeOmNSZU8o/edit?usp=sharing and use 'FILE->MAKE A COPY' or 'FILE->DOWNLOAD AS...'
+
